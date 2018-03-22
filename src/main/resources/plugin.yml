@@ -1,0 +1,8 @@
+name: SnowballFight
+main: me.El_Chupe.snowballfight.SnowballFight
+version: 0.1
+commands:
+  snowball:
+    description: meh
+    aliases: [sb]
+  stest:
